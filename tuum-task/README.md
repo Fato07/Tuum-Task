@@ -20,7 +20,7 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
      https://github.com/Fato07/Tuum-Task.git
    ```
 
-2. To spin up the applicatoion, run the following bash commands:
+2. To spin up the application, run the following bash commands:
 
    ```bash
    npm install
