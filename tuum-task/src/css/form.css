@@ -1,0 +1,56 @@
+.country-field {
+  width: -webkit-fill-available;
+}
+
+.ReactFlagsSelect-module_selectBtn__19wW7 {
+  border: none !important;
+  border-bottom: 1px solid !important;
+  border-radius: unset !important;
+}
+
+.grid-container {
+  width: 65%;
+  margin-top: 2%;
+  margin-left: 8%;
+}
+
+.fields {
+  margin: 0px -0.5em 3.8em !important;
+}
+
+.field .input > input {
+  background-color: #a7d0d8 !important;
+  border: none !important;
+  border-bottom: 1px solid !important;
+  border-radius: unset !important;
+}
+
+textarea {
+  background-color: #a7d0d8 !important;
+  border-color: black !important;
+}
+
+.ui.form .field > .selection.dropdown {
+  background-color: #a7d0d8 !important;
+  border: none !important;
+  border-bottom: 1px solid !important;
+  border-radius: unset !important;
+}
+
+.default.text {
+  color: rgb(99, 97, 97) !important;
+}
+
+input::-webkit-input-placeholder {
+  color: rgb(99, 97, 97) !important;
+}
+
+@media only screen and (max-width: 480px) {
+}
+
+@media only screen and (max-width: 767px) {
+  .ui.stackable.grid {
+    margin-left: 4rem !important;
+    margin-right: 0 !important;
+  }
+}
